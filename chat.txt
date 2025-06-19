@@ -1,0 +1,30 @@
+This code creates a scene setup with camera tracking functionality. Here's what each part does:
+
+## Function Overview
+`prepare_scene(frame_count)` sets up a complete 3D scene with lighting, camera, and animation controls.
+
+## Step-by-step breakdown:
+
+1. **`create_floor()`** - Creates a ground plane/floor for the scene
+
+2. **`light_rig_obj, _ = create_light_rig(light_count=3)`** - Creates a lighting setup with 3 lights and returns the light rig object
+
+3. **`bpy.ops.object.empty_add()`** - Creates an empty object (invisible helper) that will serve as the focus point
+
+4. **`animate_360_rotation(Axis.Z, frame_count)`** - Sets up a 360-degree rotation animation around the Z-axis for the specified number of frames
+
+5. **`bpy.ops.object.camera_add()`** - Creates a camera in the scene
+
+6. **`bpy.context.scene.camera = camera_obj`** - Sets this camera as the active render camera
+
+7. **`bpy.ops.object.constraint_add(type="TRACK_TO")`** - Adds a "Track To" constraint to the camera
+   - This makes the camera automatically point at a target object
+
+8. **`bpy.context.object.constraints["Track To"].target = focus_empty`** - Sets the empty object as the tracking target
+
+9. **`camera_obj.parent = focus_empty`** - Makes the camera a child of the empty object, so when the empty rotates, the camera orbits around it
+
+## Result
+The camera will automatically track and orbit around the focus point (empty object) as it rotates 360 degrees around the Z-axis, creating a smooth circular camera movement around the scene.
+
+This is a common technique for creating turntable-style renders where the camera circles around objects to show them from all angles.

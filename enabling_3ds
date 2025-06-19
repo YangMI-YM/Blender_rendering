@@ -1,0 +1,43 @@
+import bpy
+import bpy
+print("autodesk_3ds" in dir(bpy.ops.import_scene))
+import bmesh
+import numpy as np
+
+import sys
+sys.path.append("/Users/yangmi/Library/Application\ Support/Blender/4.4/scripts/addons")
+
+import io_scene_3ds
+import importlib
+importlib.reload(io_scene_3ds)
+
+# Manually register the add-on
+io_scene_3ds.register()
+
+# Confirm operator is now available
+print("autodesk_3ds" in dir(bpy.ops.import_scene))  # should be True
+
+import addon_utils
+addon_utils.enable("io_scene_3ds")
+# Check that it's enabled
+for mod in addon_utils.modules():
+    if mod.__name__ == "io_scene_3ds":
+        print("3DS Enabled:", addon_utils.check(mod.__name__))
+
+# Enable the 3DS importer add-on
+#bpy.ops.preferences.addon_enable(module="io_scene_3ds")
+# Import the .3ds file
+bpy.ops.import_scene.autodesk_3ds(filepath="/Users/yangmi/Documents/Projects/Blender_mesh/3DModels/jnw07caoj30g-tbfful99u7sw-Coca-Cola/Bottle\ Coca-Cola\ N080710.3ds")
+
+# Set render engine
+bpy.context.scene.render.engine = 'CYCLES'
+
+# Set output path and resolution
+bpy.context.scene.render.filepath = "/tmp/render_output.png"
+bpy.context.scene.render.resolution_x = 1920
+bpy.context.scene.render.resolution_y = 1080
+
+# Render and save image
+bpy.ops.render.render(write_still=True)
+
+

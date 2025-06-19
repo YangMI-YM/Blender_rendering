@@ -1,0 +1,45 @@
+import bpy
+import math
+
+# === Clean the scene ===
+bpy.ops.object.select_all(action='SELECT')
+bpy.ops.object.delete(use_global=False)
+
+# === Add cube ===
+bpy.ops.mesh.primitive_cube_add(location=(0, 0, 1))
+cube = bpy.context.active_object
+cube.name = "MyCube"
+
+# === Add sphere ===
+bpy.ops.mesh.primitive_uv_sphere_add(location=(2.5, 0, 1))
+sphere = bpy.context.active_object
+sphere.name = "MySphere"
+
+# === Add ground plane ===
+bpy.ops.mesh.primitive_plane_add(size=10, location=(0, 0, 0))
+plane = bpy.context.active_object
+plane.name = "Ground"
+
+# === Add sun light ===
+bpy.ops.object.light_add(type='SUN', location=(5, -5, 5))
+light = bpy.context.active_object
+light.name = "SunLight"
+light.data.energy = 3
+light.data.angle = math.radians(15)  # softness of the shadow
+
+# Point the light diagonally toward the scene
+light.rotation_euler = (
+    math.radians(45),  # vertical
+    0,
+    math.radians(45)   # horizontal
+)
+
+# === Set render engine to Cycles for better shadows ===
+bpy.context.scene.render.engine = 'CYCLES'
+
+# === Switch viewport to Rendered mode ===
+for area in bpy.context.screen.areas:
+    if area.type == 'VIEW_3D':
+        for space in area.spaces:
+            if space.type == 'VIEW_3D':
+                space.shading.type = 'RENDERED'

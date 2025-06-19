@@ -1,0 +1,4052 @@
+{
+  "frame_0001": {
+    "light_location": [
+      3.0,
+      0.0,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0002": {
+    "light_location": [
+      2.9997074604034424,
+      0.04188654199242592,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0003": {
+    "light_location": [
+      2.9988303184509277,
+      0.08376491814851761,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0004": {
+    "light_location": [
+      2.997368574142456,
+      0.12562696635723114,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0005": {
+    "light_location": [
+      2.9953222274780273,
+      0.1674645096063614,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0006": {
+    "light_location": [
+      2.992692232131958,
+      0.2092694193124771,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0007": {
+    "light_location": [
+      2.989478588104248,
+      0.2510335445404053,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0008": {
+    "light_location": [
+      2.985682249069214,
+      0.29274868965148926,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0009": {
+    "light_location": [
+      2.9813036918640137,
+      0.3344067931175232,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0010": {
+    "light_location": [
+      2.976344108581543,
+      0.37599968910217285,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0011": {
+    "light_location": [
+      2.970804214477539,
+      0.41751930117607117,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0012": {
+    "light_location": [
+      2.9646852016448975,
+      0.4589575231075287,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0013": {
+    "light_location": [
+      2.9579880237579346,
+      0.500306248664856,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0014": {
+    "light_location": [
+      2.950714349746704,
+      0.5415574312210083,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0015": {
+    "light_location": [
+      2.9428653717041016,
+      0.5827030539512634,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0016": {
+    "light_location": [
+      2.9344427585601807,
+      0.6237350702285767,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0017": {
+    "light_location": [
+      2.925448179244995,
+      0.6646454930305481,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0018": {
+    "light_location": [
+      2.9158830642700195,
+      0.7054263353347778,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0019": {
+    "light_location": [
+      2.905749559402466,
+      0.7460696697235107,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0020": {
+    "light_location": [
+      2.895049571990967,
+      0.7865675091743469,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0021": {
+    "light_location": [
+      2.8837850093841553,
+      0.8269120454788208,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0022": {
+    "light_location": [
+      2.8719584941864014,
+      0.867095410823822,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0023": {
+    "light_location": [
+      2.859571933746338,
+      0.9071096777915955,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0024": {
+    "light_location": [
+      2.846627950668335,
+      0.9469470977783203,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0025": {
+    "light_location": [
+      2.8331291675567627,
+      0.9865999221801758,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0026": {
+    "light_location": [
+      2.819077968597412,
+      1.0260604619979858,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0027": {
+    "light_location": [
+      2.8044769763946533,
+      1.0653208494186401,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0028": {
+    "light_location": [
+      2.7893295288085938,
+      1.1043736934661865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0029": {
+    "light_location": [
+      2.7736380100250244,
+      1.1432111263275146,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0030": {
+    "light_location": [
+      2.757405996322632,
+      1.1818257570266724,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0031": {
+    "light_location": [
+      2.7406363487243652,
+      1.2202099561691284,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0032": {
+    "light_location": [
+      2.723332405090332,
+      1.2583562135696411,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0033": {
+    "light_location": [
+      2.7054975032806396,
+      1.2962572574615479,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0034": {
+    "light_location": [
+      2.6871352195739746,
+      1.333905577659607,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0035": {
+    "light_location": [
+      2.6682491302490234,
+      1.3712937831878662,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0036": {
+    "light_location": [
+      2.6488428115844727,
+      1.4084147214889526,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0037": {
+    "light_location": [
+      2.628920078277588,
+      1.445261001586914,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0038": {
+    "light_location": [
+      2.6084847450256348,
+      1.481825590133667,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0039": {
+    "light_location": [
+      2.587541103363037,
+      1.5181013345718384,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0040": {
+    "light_location": [
+      2.5660927295684814,
+      1.5540810823440552,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0041": {
+    "light_location": [
+      2.54414439201355,
+      1.5897578001022339,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0042": {
+    "light_location": [
+      2.521699905395508,
+      1.6251245737075806,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0043": {
+    "light_location": [
+      2.4987637996673584,
+      1.6601746082305908,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0044": {
+    "light_location": [
+      2.4753406047821045,
+      1.6949009895324707,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0045": {
+    "light_location": [
+      2.45143461227417,
+      1.7292969226837158,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0046": {
+    "light_location": [
+      2.427051067352295,
+      1.7633557319641113,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0047": {
+    "light_location": [
+      2.402194023132324,
+      1.7970707416534424,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0048": {
+    "light_location": [
+      2.376868963241577,
+      1.8304355144500732,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0049": {
+    "light_location": [
+      2.3510804176330566,
+      1.863443374633789,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0050": {
+    "light_location": [
+      2.324833393096924,
+      1.896087884902954,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0051": {
+    "light_location": [
+      2.298133373260498,
+      1.9283628463745117,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0052": {
+    "light_location": [
+      2.2709851264953613,
+      1.9602618217468262,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0053": {
+    "light_location": [
+      2.243394374847412,
+      1.9917786121368408,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0054": {
+    "light_location": [
+      2.2153661251068115,
+      2.022907257080078,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0055": {
+    "light_location": [
+      2.186905860900879,
+      2.0536413192749023,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0056": {
+    "light_location": [
+      2.1580193042755127,
+      2.083975076675415,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0057": {
+    "light_location": [
+      2.1287121772766113,
+      2.1139025688171387,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0058": {
+    "light_location": [
+      2.098989963531494,
+      2.143418073654175,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0059": {
+    "light_location": [
+      2.0688586235046387,
+      2.172515630722046,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0060": {
+    "light_location": [
+      2.0383238792419434,
+      2.2011895179748535,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0061": {
+    "light_location": [
+      2.007391929626465,
+      2.2294344902038574,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0062": {
+    "light_location": [
+      1.976068377494812,
+      2.257244825363159,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0063": {
+    "light_location": [
+      1.9443596601486206,
+      2.2846150398254395,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0064": {
+    "light_location": [
+      1.9122719764709473,
+      2.311539649963379,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0065": {
+    "light_location": [
+      1.879811406135559,
+      2.3380138874053955,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0066": {
+    "light_location": [
+      1.8469843864440918,
+      2.36403226852417,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0067": {
+    "light_location": [
+      1.8137973546981812,
+      2.389589786529541,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0068": {
+    "light_location": [
+      1.7802566289901733,
+      2.4146814346313477,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0069": {
+    "light_location": [
+      1.7463688850402832,
+      2.4393022060394287,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0070": {
+    "light_location": [
+      1.712140679359436,
+      2.4634475708007812,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0071": {
+    "light_location": [
+      1.6775786876678467,
+      2.4871127605438232,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0072": {
+    "light_location": [
+      1.6426897048950195,
+      2.5102930068969727,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0073": {
+    "light_location": [
+      1.6074804067611694,
+      2.5329837799072266,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0074": {
+    "light_location": [
+      1.5719577074050903,
+      2.555180788040161,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0075": {
+    "light_location": [
+      1.5361286401748657,
+      2.5768797397613525,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0076": {
+    "light_location": [
+      1.5,
+      2.598076105117798,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0077": {
+    "light_location": [
+      1.4635789394378662,
+      2.6187663078308105,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0078": {
+    "light_location": [
+      1.4268726110458374,
+      2.6389458179473877,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0079": {
+    "light_location": [
+      1.389888048171997,
+      2.6586108207702637,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0080": {
+    "light_location": [
+      1.3526326417922974,
+      2.677757501602173,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0081": {
+    "light_location": [
+      1.3151134252548218,
+      2.6963820457458496,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0082": {
+    "light_location": [
+      1.277337908744812,
+      2.7144811153411865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0083": {
+    "light_location": [
+      1.2393132448196411,
+      2.732050895690918,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0084": {
+    "light_location": [
+      1.2010470628738403,
+      2.7490882873535156,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0085": {
+    "light_location": [
+      1.1625467538833618,
+      2.765589475631714,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0086": {
+    "light_location": [
+      1.1238198280334473,
+      2.7815515995025635,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0087": {
+    "light_location": [
+      1.0848736763000488,
+      2.796971321105957,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0088": {
+    "light_location": [
+      1.0457161664962769,
+      2.8118460178375244,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0089": {
+    "light_location": [
+      1.0063546895980835,
+      2.826172351837158,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0090": {
+    "light_location": [
+      0.9667971134185791,
+      2.8399477005004883,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0091": {
+    "light_location": [
+      0.9270510077476501,
+      2.8531694412231445,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0092": {
+    "light_location": [
+      0.8871241211891174,
+      2.865835189819336,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0093": {
+    "light_location": [
+      0.8470243811607361,
+      2.877941846847534,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0094": {
+    "light_location": [
+      0.8067594766616821,
+      2.8894877433776855,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0095": {
+    "light_location": [
+      0.7663372755050659,
+      2.90047025680542,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0096": {
+    "light_location": [
+      0.7257657051086426,
+      2.9108872413635254,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0097": {
+    "light_location": [
+      0.6850526332855225,
+      2.920736789703369,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0098": {
+    "light_location": [
+      0.6442059874534607,
+      2.9300167560577393,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0099": {
+    "light_location": [
+      0.6032337546348572,
+      2.938725709915161,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0100": {
+    "light_location": [
+      0.5621439218521118,
+      2.946861743927002,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0101": {
+    "light_location": [
+      0.5209445357322693,
+      2.954423189163208,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0102": {
+    "light_location": [
+      0.4796435534954071,
+      2.961408853530884,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0103": {
+    "light_location": [
+      0.4382490813732147,
+      2.9678170680999756,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0104": {
+    "light_location": [
+      0.3967691659927368,
+      2.973646640777588,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0105": {
+    "light_location": [
+      0.35521191358566284,
+      2.9788966178894043,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0106": {
+    "light_location": [
+      0.31358540058135986,
+      2.98356556892395,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0107": {
+    "light_location": [
+      0.27189773321151733,
+      2.9876532554626465,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0108": {
+    "light_location": [
+      0.23015707731246948,
+      2.9911582469940186,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0109": {
+    "light_location": [
+      0.18837155401706696,
+      2.994080066680908,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0110": {
+    "light_location": [
+      0.1465493142604828,
+      2.9964184761047363,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0111": {
+    "light_location": [
+      0.10469848662614822,
+      2.9981725215911865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0112": {
+    "light_location": [
+      0.06282725930213928,
+      2.9993419647216797,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0113": {
+    "light_location": [
+      0.02094378136098385,
+      2.999926805496216,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0114": {
+    "light_location": [
+      -0.02094378136098385,
+      2.999926805496216,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0115": {
+    "light_location": [
+      -0.06282725930213928,
+      2.9993419647216797,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0116": {
+    "light_location": [
+      -0.10469848662614822,
+      2.9981725215911865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0117": {
+    "light_location": [
+      -0.1465493142604828,
+      2.9964184761047363,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0118": {
+    "light_location": [
+      -0.18837155401706696,
+      2.994080066680908,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0119": {
+    "light_location": [
+      -0.23015707731246948,
+      2.9911582469940186,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0120": {
+    "light_location": [
+      -0.27189773321151733,
+      2.9876532554626465,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0121": {
+    "light_location": [
+      -0.31358540058135986,
+      2.98356556892395,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0122": {
+    "light_location": [
+      -0.35521191358566284,
+      2.9788966178894043,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0123": {
+    "light_location": [
+      -0.3967691659927368,
+      2.973646640777588,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0124": {
+    "light_location": [
+      -0.4382490813732147,
+      2.9678170680999756,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0125": {
+    "light_location": [
+      -0.4796435534954071,
+      2.961408853530884,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0126": {
+    "light_location": [
+      -0.5209445357322693,
+      2.954423189163208,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0127": {
+    "light_location": [
+      -0.5621439218521118,
+      2.946861743927002,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0128": {
+    "light_location": [
+      -0.6032337546348572,
+      2.938725709915161,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0129": {
+    "light_location": [
+      -0.6442059874534607,
+      2.9300167560577393,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0130": {
+    "light_location": [
+      -0.6850526332855225,
+      2.920736789703369,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0131": {
+    "light_location": [
+      -0.7257657051086426,
+      2.9108872413635254,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0132": {
+    "light_location": [
+      -0.7663372755050659,
+      2.90047025680542,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0133": {
+    "light_location": [
+      -0.8067594766616821,
+      2.8894877433776855,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0134": {
+    "light_location": [
+      -0.8470243811607361,
+      2.877941846847534,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0135": {
+    "light_location": [
+      -0.8871241211891174,
+      2.865835189819336,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0136": {
+    "light_location": [
+      -0.9270510077476501,
+      2.8531694412231445,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0137": {
+    "light_location": [
+      -0.9667971134185791,
+      2.8399477005004883,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0138": {
+    "light_location": [
+      -1.0063546895980835,
+      2.826172351837158,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0139": {
+    "light_location": [
+      -1.0457161664962769,
+      2.8118460178375244,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0140": {
+    "light_location": [
+      -1.0848736763000488,
+      2.796971321105957,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0141": {
+    "light_location": [
+      -1.1238198280334473,
+      2.7815515995025635,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0142": {
+    "light_location": [
+      -1.1625467538833618,
+      2.765589475631714,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0143": {
+    "light_location": [
+      -1.2010470628738403,
+      2.7490882873535156,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0144": {
+    "light_location": [
+      -1.2393132448196411,
+      2.732050895690918,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0145": {
+    "light_location": [
+      -1.277337908744812,
+      2.7144811153411865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0146": {
+    "light_location": [
+      -1.3151134252548218,
+      2.6963820457458496,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0147": {
+    "light_location": [
+      -1.3526326417922974,
+      2.677757501602173,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0148": {
+    "light_location": [
+      -1.389888048171997,
+      2.6586108207702637,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0149": {
+    "light_location": [
+      -1.4268726110458374,
+      2.6389458179473877,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0150": {
+    "light_location": [
+      -1.4635789394378662,
+      2.6187663078308105,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0151": {
+    "light_location": [
+      -1.5,
+      2.598076105117798,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0152": {
+    "light_location": [
+      -1.5361286401748657,
+      2.5768797397613525,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0153": {
+    "light_location": [
+      -1.5719577074050903,
+      2.555180788040161,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0154": {
+    "light_location": [
+      -1.6074804067611694,
+      2.5329837799072266,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0155": {
+    "light_location": [
+      -1.6426897048950195,
+      2.5102930068969727,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0156": {
+    "light_location": [
+      -1.6775786876678467,
+      2.4871127605438232,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0157": {
+    "light_location": [
+      -1.712140679359436,
+      2.4634475708007812,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0158": {
+    "light_location": [
+      -1.7463688850402832,
+      2.4393022060394287,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0159": {
+    "light_location": [
+      -1.7802566289901733,
+      2.4146814346313477,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0160": {
+    "light_location": [
+      -1.8137973546981812,
+      2.389589786529541,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0161": {
+    "light_location": [
+      -1.8469843864440918,
+      2.36403226852417,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0162": {
+    "light_location": [
+      -1.879811406135559,
+      2.3380138874053955,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0163": {
+    "light_location": [
+      -1.9122719764709473,
+      2.311539649963379,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0164": {
+    "light_location": [
+      -1.9443596601486206,
+      2.2846150398254395,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0165": {
+    "light_location": [
+      -1.976068377494812,
+      2.257244825363159,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0166": {
+    "light_location": [
+      -2.007391929626465,
+      2.2294344902038574,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0167": {
+    "light_location": [
+      -2.0383238792419434,
+      2.2011895179748535,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0168": {
+    "light_location": [
+      -2.0688586235046387,
+      2.172515630722046,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0169": {
+    "light_location": [
+      -2.098989963531494,
+      2.143418073654175,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0170": {
+    "light_location": [
+      -2.1287121772766113,
+      2.1139025688171387,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0171": {
+    "light_location": [
+      -2.1580193042755127,
+      2.083975076675415,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0172": {
+    "light_location": [
+      -2.186905860900879,
+      2.0536413192749023,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0173": {
+    "light_location": [
+      -2.2153661251068115,
+      2.022907257080078,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0174": {
+    "light_location": [
+      -2.243394374847412,
+      1.9917786121368408,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0175": {
+    "light_location": [
+      -2.2709851264953613,
+      1.9602618217468262,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0176": {
+    "light_location": [
+      -2.298133373260498,
+      1.9283628463745117,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0177": {
+    "light_location": [
+      -2.324833393096924,
+      1.896087884902954,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0178": {
+    "light_location": [
+      -2.3510804176330566,
+      1.863443374633789,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0179": {
+    "light_location": [
+      -2.376868963241577,
+      1.8304355144500732,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0180": {
+    "light_location": [
+      -2.402194023132324,
+      1.7970707416534424,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0181": {
+    "light_location": [
+      -2.427051067352295,
+      1.7633557319641113,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0182": {
+    "light_location": [
+      -2.45143461227417,
+      1.7292969226837158,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0183": {
+    "light_location": [
+      -2.4753406047821045,
+      1.6949009895324707,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0184": {
+    "light_location": [
+      -2.4987637996673584,
+      1.6601746082305908,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0185": {
+    "light_location": [
+      -2.521699905395508,
+      1.6251245737075806,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0186": {
+    "light_location": [
+      -2.54414439201355,
+      1.5897578001022339,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0187": {
+    "light_location": [
+      -2.5660927295684814,
+      1.5540810823440552,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0188": {
+    "light_location": [
+      -2.587541103363037,
+      1.5181013345718384,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0189": {
+    "light_location": [
+      -2.6084847450256348,
+      1.481825590133667,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0190": {
+    "light_location": [
+      -2.628920078277588,
+      1.445261001586914,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0191": {
+    "light_location": [
+      -2.6488428115844727,
+      1.4084147214889526,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0192": {
+    "light_location": [
+      -2.6682491302490234,
+      1.3712937831878662,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0193": {
+    "light_location": [
+      -2.6871352195739746,
+      1.333905577659607,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0194": {
+    "light_location": [
+      -2.7054975032806396,
+      1.2962572574615479,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0195": {
+    "light_location": [
+      -2.723332405090332,
+      1.2583562135696411,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0196": {
+    "light_location": [
+      -2.7406363487243652,
+      1.2202099561691284,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0197": {
+    "light_location": [
+      -2.757405996322632,
+      1.1818257570266724,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0198": {
+    "light_location": [
+      -2.7736380100250244,
+      1.1432111263275146,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0199": {
+    "light_location": [
+      -2.7893295288085938,
+      1.1043736934661865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0200": {
+    "light_location": [
+      -2.8044769763946533,
+      1.0653208494186401,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0201": {
+    "light_location": [
+      -2.819077968597412,
+      1.0260604619979858,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0202": {
+    "light_location": [
+      -2.8331291675567627,
+      0.9865999221801758,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0203": {
+    "light_location": [
+      -2.846627950668335,
+      0.9469470977783203,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0204": {
+    "light_location": [
+      -2.859571933746338,
+      0.9071096777915955,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0205": {
+    "light_location": [
+      -2.8719584941864014,
+      0.867095410823822,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0206": {
+    "light_location": [
+      -2.8837850093841553,
+      0.8269120454788208,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0207": {
+    "light_location": [
+      -2.895049571990967,
+      0.7865675091743469,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0208": {
+    "light_location": [
+      -2.905749559402466,
+      0.7460696697235107,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0209": {
+    "light_location": [
+      -2.9158830642700195,
+      0.7054263353347778,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0210": {
+    "light_location": [
+      -2.925448179244995,
+      0.6646454930305481,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0211": {
+    "light_location": [
+      -2.9344427585601807,
+      0.6237350702285767,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0212": {
+    "light_location": [
+      -2.9428653717041016,
+      0.5827030539512634,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0213": {
+    "light_location": [
+      -2.950714349746704,
+      0.5415574312210083,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0214": {
+    "light_location": [
+      -2.9579880237579346,
+      0.500306248664856,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0215": {
+    "light_location": [
+      -2.9646852016448975,
+      0.4589575231075287,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0216": {
+    "light_location": [
+      -2.970804214477539,
+      0.41751930117607117,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0217": {
+    "light_location": [
+      -2.976344108581543,
+      0.37599968910217285,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0218": {
+    "light_location": [
+      -2.9813036918640137,
+      0.3344067931175232,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0219": {
+    "light_location": [
+      -2.985682249069214,
+      0.29274868965148926,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0220": {
+    "light_location": [
+      -2.989478588104248,
+      0.2510335445404053,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0221": {
+    "light_location": [
+      -2.992692232131958,
+      0.2092694193124771,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0222": {
+    "light_location": [
+      -2.9953222274780273,
+      0.1674645096063614,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0223": {
+    "light_location": [
+      -2.997368574142456,
+      0.12562696635723114,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0224": {
+    "light_location": [
+      -2.9988303184509277,
+      0.08376491814851761,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0225": {
+    "light_location": [
+      -2.9997074604034424,
+      0.04188654199242592,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0226": {
+    "light_location": [
+      -3.0,
+      3.6739402930577075e-16,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0227": {
+    "light_location": [
+      -2.9997074604034424,
+      -0.04188654199242592,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0228": {
+    "light_location": [
+      -2.9988303184509277,
+      -0.08376491814851761,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0229": {
+    "light_location": [
+      -2.997368574142456,
+      -0.12562696635723114,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0230": {
+    "light_location": [
+      -2.9953222274780273,
+      -0.1674645096063614,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0231": {
+    "light_location": [
+      -2.992692232131958,
+      -0.2092694193124771,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0232": {
+    "light_location": [
+      -2.989478588104248,
+      -0.2510335445404053,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0233": {
+    "light_location": [
+      -2.985682249069214,
+      -0.29274868965148926,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0234": {
+    "light_location": [
+      -2.9813036918640137,
+      -0.3344067931175232,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0235": {
+    "light_location": [
+      -2.976344108581543,
+      -0.37599968910217285,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0236": {
+    "light_location": [
+      -2.970804214477539,
+      -0.41751930117607117,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0237": {
+    "light_location": [
+      -2.9646852016448975,
+      -0.4589575231075287,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0238": {
+    "light_location": [
+      -2.9579880237579346,
+      -0.500306248664856,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0239": {
+    "light_location": [
+      -2.950714349746704,
+      -0.5415574312210083,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0240": {
+    "light_location": [
+      -2.9428653717041016,
+      -0.5827030539512634,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0241": {
+    "light_location": [
+      -2.9344427585601807,
+      -0.6237350702285767,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0242": {
+    "light_location": [
+      -2.925448179244995,
+      -0.6646454930305481,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0243": {
+    "light_location": [
+      -2.9158830642700195,
+      -0.7054263353347778,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0244": {
+    "light_location": [
+      -2.905749559402466,
+      -0.7460696697235107,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0245": {
+    "light_location": [
+      -2.895049571990967,
+      -0.7865675091743469,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0246": {
+    "light_location": [
+      -2.8837850093841553,
+      -0.8269120454788208,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0247": {
+    "light_location": [
+      -2.8719584941864014,
+      -0.867095410823822,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0248": {
+    "light_location": [
+      -2.859571933746338,
+      -0.9071096777915955,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0249": {
+    "light_location": [
+      -2.846627950668335,
+      -0.9469470977783203,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0250": {
+    "light_location": [
+      -2.8331291675567627,
+      -0.9865999221801758,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0251": {
+    "light_location": [
+      -2.819077968597412,
+      -1.0260604619979858,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0252": {
+    "light_location": [
+      -2.8044769763946533,
+      -1.0653208494186401,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0253": {
+    "light_location": [
+      -2.7893295288085938,
+      -1.1043736934661865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0254": {
+    "light_location": [
+      -2.7736380100250244,
+      -1.1432111263275146,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0255": {
+    "light_location": [
+      -2.757405996322632,
+      -1.1818257570266724,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0256": {
+    "light_location": [
+      -2.7406363487243652,
+      -1.2202099561691284,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0257": {
+    "light_location": [
+      -2.723332405090332,
+      -1.2583562135696411,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0258": {
+    "light_location": [
+      -2.7054975032806396,
+      -1.2962572574615479,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0259": {
+    "light_location": [
+      -2.6871352195739746,
+      -1.333905577659607,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0260": {
+    "light_location": [
+      -2.6682491302490234,
+      -1.3712937831878662,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0261": {
+    "light_location": [
+      -2.6488428115844727,
+      -1.4084147214889526,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0262": {
+    "light_location": [
+      -2.628920078277588,
+      -1.445261001586914,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0263": {
+    "light_location": [
+      -2.6084847450256348,
+      -1.481825590133667,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0264": {
+    "light_location": [
+      -2.587541103363037,
+      -1.5181013345718384,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0265": {
+    "light_location": [
+      -2.5660927295684814,
+      -1.5540810823440552,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0266": {
+    "light_location": [
+      -2.54414439201355,
+      -1.5897578001022339,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0267": {
+    "light_location": [
+      -2.521699905395508,
+      -1.6251245737075806,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0268": {
+    "light_location": [
+      -2.4987637996673584,
+      -1.6601746082305908,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0269": {
+    "light_location": [
+      -2.4753406047821045,
+      -1.6949009895324707,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0270": {
+    "light_location": [
+      -2.45143461227417,
+      -1.7292969226837158,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0271": {
+    "light_location": [
+      -2.427051067352295,
+      -1.7633557319641113,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0272": {
+    "light_location": [
+      -2.402194023132324,
+      -1.7970707416534424,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0273": {
+    "light_location": [
+      -2.376868963241577,
+      -1.8304355144500732,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0274": {
+    "light_location": [
+      -2.3510804176330566,
+      -1.863443374633789,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0275": {
+    "light_location": [
+      -2.324833393096924,
+      -1.896087884902954,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0276": {
+    "light_location": [
+      -2.298133373260498,
+      -1.9283628463745117,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0277": {
+    "light_location": [
+      -2.2709851264953613,
+      -1.9602618217468262,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0278": {
+    "light_location": [
+      -2.243394374847412,
+      -1.9917786121368408,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0279": {
+    "light_location": [
+      -2.2153661251068115,
+      -2.022907257080078,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0280": {
+    "light_location": [
+      -2.186905860900879,
+      -2.0536413192749023,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0281": {
+    "light_location": [
+      -2.1580193042755127,
+      -2.083975076675415,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0282": {
+    "light_location": [
+      -2.1287121772766113,
+      -2.1139025688171387,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0283": {
+    "light_location": [
+      -2.098989963531494,
+      -2.143418073654175,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0284": {
+    "light_location": [
+      -2.0688586235046387,
+      -2.172515630722046,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0285": {
+    "light_location": [
+      -2.0383238792419434,
+      -2.2011895179748535,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0286": {
+    "light_location": [
+      -2.007391929626465,
+      -2.2294344902038574,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0287": {
+    "light_location": [
+      -1.976068377494812,
+      -2.257244825363159,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0288": {
+    "light_location": [
+      -1.9443596601486206,
+      -2.2846150398254395,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0289": {
+    "light_location": [
+      -1.9122719764709473,
+      -2.311539649963379,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0290": {
+    "light_location": [
+      -1.879811406135559,
+      -2.3380138874053955,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0291": {
+    "light_location": [
+      -1.8469843864440918,
+      -2.36403226852417,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0292": {
+    "light_location": [
+      -1.8137973546981812,
+      -2.389589786529541,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0293": {
+    "light_location": [
+      -1.7802566289901733,
+      -2.4146814346313477,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0294": {
+    "light_location": [
+      -1.7463688850402832,
+      -2.4393022060394287,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0295": {
+    "light_location": [
+      -1.712140679359436,
+      -2.4634475708007812,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0296": {
+    "light_location": [
+      -1.6775786876678467,
+      -2.4871127605438232,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0297": {
+    "light_location": [
+      -1.6426897048950195,
+      -2.5102930068969727,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0298": {
+    "light_location": [
+      -1.6074804067611694,
+      -2.5329837799072266,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0299": {
+    "light_location": [
+      -1.5719577074050903,
+      -2.555180788040161,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0300": {
+    "light_location": [
+      -1.5361286401748657,
+      -2.5768797397613525,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0301": {
+    "light_location": [
+      -1.5,
+      -2.598076105117798,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0302": {
+    "light_location": [
+      -1.4635789394378662,
+      -2.6187663078308105,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0303": {
+    "light_location": [
+      -1.4268726110458374,
+      -2.6389458179473877,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0304": {
+    "light_location": [
+      -1.389888048171997,
+      -2.6586108207702637,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0305": {
+    "light_location": [
+      -1.3526326417922974,
+      -2.677757501602173,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0306": {
+    "light_location": [
+      -1.3151134252548218,
+      -2.6963820457458496,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0307": {
+    "light_location": [
+      -1.277337908744812,
+      -2.7144811153411865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0308": {
+    "light_location": [
+      -1.2393132448196411,
+      -2.732050895690918,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0309": {
+    "light_location": [
+      -1.2010470628738403,
+      -2.7490882873535156,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0310": {
+    "light_location": [
+      -1.1625467538833618,
+      -2.765589475631714,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0311": {
+    "light_location": [
+      -1.1238198280334473,
+      -2.7815515995025635,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0312": {
+    "light_location": [
+      -1.0848736763000488,
+      -2.796971321105957,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0313": {
+    "light_location": [
+      -1.0457161664962769,
+      -2.8118460178375244,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0314": {
+    "light_location": [
+      -1.0063546895980835,
+      -2.826172351837158,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0315": {
+    "light_location": [
+      -0.9667971134185791,
+      -2.8399477005004883,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0316": {
+    "light_location": [
+      -0.9270510077476501,
+      -2.8531694412231445,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0317": {
+    "light_location": [
+      -0.8871241211891174,
+      -2.865835189819336,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0318": {
+    "light_location": [
+      -0.8470243811607361,
+      -2.877941846847534,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0319": {
+    "light_location": [
+      -0.8067594766616821,
+      -2.8894877433776855,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0320": {
+    "light_location": [
+      -0.7663372755050659,
+      -2.90047025680542,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0321": {
+    "light_location": [
+      -0.7257657051086426,
+      -2.9108872413635254,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0322": {
+    "light_location": [
+      -0.6850526332855225,
+      -2.920736789703369,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0323": {
+    "light_location": [
+      -0.6442059874534607,
+      -2.9300167560577393,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0324": {
+    "light_location": [
+      -0.6032337546348572,
+      -2.938725709915161,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0325": {
+    "light_location": [
+      -0.5621439218521118,
+      -2.946861743927002,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0326": {
+    "light_location": [
+      -0.5209445357322693,
+      -2.954423189163208,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0327": {
+    "light_location": [
+      -0.4796435534954071,
+      -2.961408853530884,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0328": {
+    "light_location": [
+      -0.4382490813732147,
+      -2.9678170680999756,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0329": {
+    "light_location": [
+      -0.3967691659927368,
+      -2.973646640777588,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0330": {
+    "light_location": [
+      -0.35521191358566284,
+      -2.9788966178894043,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0331": {
+    "light_location": [
+      -0.31358540058135986,
+      -2.98356556892395,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0332": {
+    "light_location": [
+      -0.27189773321151733,
+      -2.9876532554626465,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0333": {
+    "light_location": [
+      -0.23015707731246948,
+      -2.9911582469940186,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0334": {
+    "light_location": [
+      -0.18837155401706696,
+      -2.994080066680908,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0335": {
+    "light_location": [
+      -0.1465493142604828,
+      -2.9964184761047363,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0336": {
+    "light_location": [
+      -0.10469848662614822,
+      -2.9981725215911865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0337": {
+    "light_location": [
+      -0.06282725930213928,
+      -2.9993419647216797,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0338": {
+    "light_location": [
+      -0.02094378136098385,
+      -2.999926805496216,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0339": {
+    "light_location": [
+      0.02094378136098385,
+      -2.999926805496216,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0340": {
+    "light_location": [
+      0.06282725930213928,
+      -2.9993419647216797,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0341": {
+    "light_location": [
+      0.10469848662614822,
+      -2.9981725215911865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0342": {
+    "light_location": [
+      0.1465493142604828,
+      -2.9964184761047363,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0343": {
+    "light_location": [
+      0.18837155401706696,
+      -2.994080066680908,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0344": {
+    "light_location": [
+      0.23015707731246948,
+      -2.9911582469940186,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0345": {
+    "light_location": [
+      0.27189773321151733,
+      -2.9876532554626465,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0346": {
+    "light_location": [
+      0.31358540058135986,
+      -2.98356556892395,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0347": {
+    "light_location": [
+      0.35521191358566284,
+      -2.9788966178894043,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0348": {
+    "light_location": [
+      0.3967691659927368,
+      -2.973646640777588,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0349": {
+    "light_location": [
+      0.4382490813732147,
+      -2.9678170680999756,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0350": {
+    "light_location": [
+      0.4796435534954071,
+      -2.961408853530884,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0351": {
+    "light_location": [
+      0.5209445357322693,
+      -2.954423189163208,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0352": {
+    "light_location": [
+      0.5621439218521118,
+      -2.946861743927002,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0353": {
+    "light_location": [
+      0.6032337546348572,
+      -2.938725709915161,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0354": {
+    "light_location": [
+      0.6442059874534607,
+      -2.9300167560577393,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0355": {
+    "light_location": [
+      0.6850526332855225,
+      -2.920736789703369,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0356": {
+    "light_location": [
+      0.7257657051086426,
+      -2.9108872413635254,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0357": {
+    "light_location": [
+      0.7663372755050659,
+      -2.90047025680542,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0358": {
+    "light_location": [
+      0.8067594766616821,
+      -2.8894877433776855,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0359": {
+    "light_location": [
+      0.8470243811607361,
+      -2.877941846847534,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0360": {
+    "light_location": [
+      0.8871241211891174,
+      -2.865835189819336,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0361": {
+    "light_location": [
+      0.9270510077476501,
+      -2.8531694412231445,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0362": {
+    "light_location": [
+      0.9667971134185791,
+      -2.8399477005004883,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0363": {
+    "light_location": [
+      1.0063546895980835,
+      -2.826172351837158,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0364": {
+    "light_location": [
+      1.0457161664962769,
+      -2.8118460178375244,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0365": {
+    "light_location": [
+      1.0848736763000488,
+      -2.796971321105957,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0366": {
+    "light_location": [
+      1.1238198280334473,
+      -2.7815515995025635,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0367": {
+    "light_location": [
+      1.1625467538833618,
+      -2.765589475631714,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0368": {
+    "light_location": [
+      1.2010470628738403,
+      -2.7490882873535156,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0369": {
+    "light_location": [
+      1.2393132448196411,
+      -2.732050895690918,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0370": {
+    "light_location": [
+      1.277337908744812,
+      -2.7144811153411865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0371": {
+    "light_location": [
+      1.3151134252548218,
+      -2.6963820457458496,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0372": {
+    "light_location": [
+      1.3526326417922974,
+      -2.677757501602173,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0373": {
+    "light_location": [
+      1.389888048171997,
+      -2.6586108207702637,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0374": {
+    "light_location": [
+      1.4268726110458374,
+      -2.6389458179473877,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0375": {
+    "light_location": [
+      1.4635789394378662,
+      -2.6187663078308105,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0376": {
+    "light_location": [
+      1.5,
+      -2.598076105117798,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0377": {
+    "light_location": [
+      1.5361286401748657,
+      -2.5768797397613525,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0378": {
+    "light_location": [
+      1.5719577074050903,
+      -2.555180788040161,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0379": {
+    "light_location": [
+      1.6074804067611694,
+      -2.5329837799072266,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0380": {
+    "light_location": [
+      1.6426897048950195,
+      -2.5102930068969727,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0381": {
+    "light_location": [
+      1.6775786876678467,
+      -2.4871127605438232,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0382": {
+    "light_location": [
+      1.712140679359436,
+      -2.4634475708007812,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0383": {
+    "light_location": [
+      1.7463688850402832,
+      -2.4393022060394287,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0384": {
+    "light_location": [
+      1.7802566289901733,
+      -2.4146814346313477,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0385": {
+    "light_location": [
+      1.8137973546981812,
+      -2.389589786529541,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0386": {
+    "light_location": [
+      1.8469843864440918,
+      -2.36403226852417,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0387": {
+    "light_location": [
+      1.879811406135559,
+      -2.3380138874053955,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0388": {
+    "light_location": [
+      1.9122719764709473,
+      -2.311539649963379,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0389": {
+    "light_location": [
+      1.9443596601486206,
+      -2.2846150398254395,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0390": {
+    "light_location": [
+      1.976068377494812,
+      -2.257244825363159,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0391": {
+    "light_location": [
+      2.007391929626465,
+      -2.2294344902038574,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0392": {
+    "light_location": [
+      2.0383238792419434,
+      -2.2011895179748535,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0393": {
+    "light_location": [
+      2.0688586235046387,
+      -2.172515630722046,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0394": {
+    "light_location": [
+      2.098989963531494,
+      -2.143418073654175,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0395": {
+    "light_location": [
+      2.1287121772766113,
+      -2.1139025688171387,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0396": {
+    "light_location": [
+      2.1580193042755127,
+      -2.083975076675415,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0397": {
+    "light_location": [
+      2.186905860900879,
+      -2.0536413192749023,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0398": {
+    "light_location": [
+      2.2153661251068115,
+      -2.022907257080078,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0399": {
+    "light_location": [
+      2.243394374847412,
+      -1.9917786121368408,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0400": {
+    "light_location": [
+      2.2709851264953613,
+      -1.9602618217468262,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0401": {
+    "light_location": [
+      2.298133373260498,
+      -1.9283628463745117,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0402": {
+    "light_location": [
+      2.324833393096924,
+      -1.896087884902954,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0403": {
+    "light_location": [
+      2.3510804176330566,
+      -1.863443374633789,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0404": {
+    "light_location": [
+      2.376868963241577,
+      -1.8304355144500732,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0405": {
+    "light_location": [
+      2.402194023132324,
+      -1.7970707416534424,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0406": {
+    "light_location": [
+      2.427051067352295,
+      -1.7633557319641113,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0407": {
+    "light_location": [
+      2.45143461227417,
+      -1.7292969226837158,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0408": {
+    "light_location": [
+      2.4753406047821045,
+      -1.6949009895324707,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0409": {
+    "light_location": [
+      2.4987637996673584,
+      -1.6601746082305908,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0410": {
+    "light_location": [
+      2.521699905395508,
+      -1.6251245737075806,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0411": {
+    "light_location": [
+      2.54414439201355,
+      -1.5897578001022339,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0412": {
+    "light_location": [
+      2.5660927295684814,
+      -1.5540810823440552,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0413": {
+    "light_location": [
+      2.587541103363037,
+      -1.5181013345718384,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0414": {
+    "light_location": [
+      2.6084847450256348,
+      -1.481825590133667,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0415": {
+    "light_location": [
+      2.628920078277588,
+      -1.445261001586914,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0416": {
+    "light_location": [
+      2.6488428115844727,
+      -1.4084147214889526,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0417": {
+    "light_location": [
+      2.6682491302490234,
+      -1.3712937831878662,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0418": {
+    "light_location": [
+      2.6871352195739746,
+      -1.333905577659607,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0419": {
+    "light_location": [
+      2.7054975032806396,
+      -1.2962572574615479,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0420": {
+    "light_location": [
+      2.723332405090332,
+      -1.2583562135696411,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0421": {
+    "light_location": [
+      2.7406363487243652,
+      -1.2202099561691284,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0422": {
+    "light_location": [
+      2.757405996322632,
+      -1.1818257570266724,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0423": {
+    "light_location": [
+      2.7736380100250244,
+      -1.1432111263275146,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0424": {
+    "light_location": [
+      2.7893295288085938,
+      -1.1043736934661865,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0425": {
+    "light_location": [
+      2.8044769763946533,
+      -1.0653208494186401,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0426": {
+    "light_location": [
+      2.819077968597412,
+      -1.0260604619979858,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0427": {
+    "light_location": [
+      2.8331291675567627,
+      -0.9865999221801758,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0428": {
+    "light_location": [
+      2.846627950668335,
+      -0.9469470977783203,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0429": {
+    "light_location": [
+      2.859571933746338,
+      -0.9071096777915955,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0430": {
+    "light_location": [
+      2.8719584941864014,
+      -0.867095410823822,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0431": {
+    "light_location": [
+      2.8837850093841553,
+      -0.8269120454788208,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0432": {
+    "light_location": [
+      2.895049571990967,
+      -0.7865675091743469,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0433": {
+    "light_location": [
+      2.905749559402466,
+      -0.7460696697235107,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0434": {
+    "light_location": [
+      2.9158830642700195,
+      -0.7054263353347778,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0435": {
+    "light_location": [
+      2.925448179244995,
+      -0.6646454930305481,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0436": {
+    "light_location": [
+      2.9344427585601807,
+      -0.6237350702285767,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0437": {
+    "light_location": [
+      2.9428653717041016,
+      -0.5827030539512634,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0438": {
+    "light_location": [
+      2.950714349746704,
+      -0.5415574312210083,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0439": {
+    "light_location": [
+      2.9579880237579346,
+      -0.500306248664856,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0440": {
+    "light_location": [
+      2.9646852016448975,
+      -0.4589575231075287,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0441": {
+    "light_location": [
+      2.970804214477539,
+      -0.41751930117607117,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0442": {
+    "light_location": [
+      2.976344108581543,
+      -0.37599968910217285,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0443": {
+    "light_location": [
+      2.9813036918640137,
+      -0.3344067931175232,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0444": {
+    "light_location": [
+      2.985682249069214,
+      -0.29274868965148926,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0445": {
+    "light_location": [
+      2.989478588104248,
+      -0.2510335445404053,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0446": {
+    "light_location": [
+      2.992692232131958,
+      -0.2092694193124771,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0447": {
+    "light_location": [
+      2.9953222274780273,
+      -0.1674645096063614,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0448": {
+    "light_location": [
+      2.997368574142456,
+      -0.12562696635723114,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0449": {
+    "light_location": [
+      2.9988303184509277,
+      -0.08376491814851761,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  },
+  "frame_0450": {
+    "light_location": [
+      2.9997074604034424,
+      -0.04188654199242592,
+      3.0
+    ],
+    "light_power": 2000.0,
+    "light_size": 2.0
+  }
+}
