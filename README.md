@@ -5,6 +5,8 @@
 ### 1. First run the script
 ```bash
 blender --python interactive_render.py
+# Or in my own mac, I have to do
+/Applications/Blender.app/Contents/MacOS/Blender --python interactive_render.py
 ```
 
 ### 2. In Blender:
@@ -13,7 +15,7 @@ blender --python interactive_render.py
  - Select all objects you want to render
 
 ### 3. In Blender's Python console:
-```python
+```bash
 # 1. Check what's in your scene
 >>> list_mesh_objects()
 
@@ -35,7 +37,28 @@ Current camera properties:
   Rotation: (-0.6898740530014038, 0.12217303365468979, 0.125140979886055)
 
 # Optionally, select user setup light
->> user_selected_light() # detailed to be confirmed
+>>> use_selected_light()
+Using light: Area
+Current light properties:
+  Location: (5.999414920806885, -0.08377308398485184, 3.0)
+  Energy: 10.0
+  Size: 1.0
+
+>>> update_current_light(energy=5000, size=3, radius=8)
+Updated light 'Area':
+  Location: (5.999414920806885, -0.08377308398485184, 3.0)
+  Energy: 5000.0
+  Size: 3.0
+  Animation radius: 8
+
+# Check everything looks right
+>>> print_current_settings()
+Current Settings:
+Light - Location: (5.999414920806885, -0.08377308398485184, 3.0), Energy: 5000, Size: 3, Radius: 8
+Camera - Distance: 4, Height: 2
+Focus - Location: Auto (center of selected objects)
+Using user-created light: Area
+Using user-created camera: Camera
 
 # 4. Start rendering
 >>> continue_render()
