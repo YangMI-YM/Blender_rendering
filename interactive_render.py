@@ -73,31 +73,37 @@ def create_camera_with_tracking(target_objects):
         
         # Set as active camera
         bpy.context.scene.camera = camera
-        
-        # Add Track To constraint to make camera face the focus empty
-        bpy.ops.object.constraint_add(type="TRACK_TO")
-        track_constraint = camera.constraints["Track To"]
-        track_constraint.target = focus_empty
-        track_constraint.track_axis = 'TRACK_NEGATIVE_Z'
-        track_constraint.up_axis = 'UP_Y'
-        
-        return camera, focus_empty
     
     # If using user camera, we still need a focus empty
-    if USER_FOCUS_LOCATION is not None:
-        center_point = mathutils.Vector(USER_FOCUS_LOCATION)
+    if USER_CAMERA_OBJECT:
+        if USER_FOCUS_LOCATION is not None:
+            center_point = mathutils.Vector(USER_FOCUS_LOCATION)
+        else:
+            centers = [get_object_center(obj) for obj in target_objects]
+            center_point = sum(centers, mathutils.Vector()) / len(centers)
+        
+        # Create focus empty
+        bpy.ops.object.empty_add(type='PLAIN_AXES', location=center_point)
+        focus_empty = bpy.context.active_object
+        focus_empty.name = "Focus_Empty"
     else:
-        centers = [get_object_center(obj) for obj in target_objects]
-        center_point = sum(centers, mathutils.Vector()) / len(centers)
+        # Focus empty was already created above
+        pass
     
-    # Create focus empty
-    bpy.ops.object.empty_add(type='PLAIN_AXES', location=center_point)
-    focus_empty = bpy.context.active_object
-    focus_empty.name = "Focus_Empty"
-    
-    # Add Track To constraint to user camera
+    # Add Track To constraint to camera
     bpy.ops.object.constraint_add(type="TRACK_TO")
-    track_constraint = camera.constraints["Track To"]
+    
+    # Find the Track To constraint we just added
+    track_constraint = None
+    for constraint in camera.constraints:
+        if constraint.type == 'TRACK_TO':
+            track_constraint = constraint
+            break
+    
+    if track_constraint is None:
+        print("Warning: Failed to create Track To constraint")
+        return camera, focus_empty
+    
     track_constraint.target = focus_empty
     track_constraint.track_axis = 'TRACK_NEGATIVE_Z'
     track_constraint.up_axis = 'UP_Y'
@@ -149,7 +155,13 @@ def animate_light(light, center=(0,0,0), radius=3, frame_count=450):
 
 def get_selected_objects():
     """Get list of currently selected objects"""
-    return [obj for obj in bpy.context.selected_objects if obj.type == 'MESH']
+    all_selected = bpy.context.selected_objects
+    mesh_objects = [obj for obj in all_selected if obj.type == 'MESH']
+    
+    print(f"Debug - All selected objects: {[obj.name for obj in all_selected]}")
+    print(f"Debug - Mesh objects: {[obj.name for obj in mesh_objects]}")
+    
+    return mesh_objects
 
 # User configuration functions
 def set_light_parameters(location=(0, -3, 3), energy=2000, size=2, radius=3):
@@ -214,6 +226,9 @@ def wait_for_user_setup():
     print("   - Select a camera object and call use_selected_camera()")
     print("   - clear_user_objects() to use auto-created objects")
     print("6. Run continue_render() when ready")
+    print("\nHelper functions for object selection:")
+    print("   - list_mesh_objects() - Show all mesh objects and selection status")
+    print("   - select_all_mesh_objects() - Select all mesh objects automatically")
     
     # Make functions globally available
     import builtins
@@ -224,6 +239,8 @@ def wait_for_user_setup():
     builtins.use_selected_light = use_selected_light
     builtins.use_selected_camera = use_selected_camera
     builtins.clear_user_objects = clear_user_objects
+    builtins.list_mesh_objects = list_mesh_objects
+    builtins.select_all_mesh_objects = select_all_mesh_objects
     
     print("\nAvailable functions in Python console:")
     print("- set_light_parameters(location, energy, size, radius)")
@@ -231,6 +248,8 @@ def wait_for_user_setup():
     print("- use_selected_light()")
     print("- use_selected_camera()")
     print("- clear_user_objects()")
+    print("- list_mesh_objects()")
+    print("- select_all_mesh_objects()")
     print("- print_current_settings()")
     print("- continue_render()")
 
@@ -240,10 +259,14 @@ def continue_render():
     target_objects = get_selected_objects()
     
     if not target_objects:
-        print("Error: No objects selected. Please select the objects you want to render.")
+        print("Error: No mesh objects selected. Please select the objects you want to render.")
+        print("Available mesh objects in scene:")
+        for obj in bpy.data.objects:
+            if obj.type == 'MESH':
+                print(f"  - {obj.name}")
         return
     
-    print(f"Found {len(target_objects)} selected objects. Continuing with render setup...")
+    print(f"Found {len(target_objects)} selected mesh objects: {[obj.name for obj in target_objects]}")
     print_current_settings()
     
     # Create output directory
@@ -319,6 +342,38 @@ def clear_user_objects():
     USER_LIGHT_OBJECT = None
     USER_CAMERA_OBJECT = None
     print("Cleared user-created object selections. Will use auto-created objects.")
+
+def list_mesh_objects():
+    """List all mesh objects and their selection status"""
+    print("\nAll mesh objects in scene:")
+    mesh_objects = [obj for obj in bpy.data.objects if obj.type == 'MESH']
+    
+    if not mesh_objects:
+        print("  No mesh objects found in scene!")
+        return
+    
+    for obj in mesh_objects:
+        status = "SELECTED" if obj.select_get() else "not selected"
+        print(f"  - {obj.name}: {status}")
+    
+    print(f"\nTotal mesh objects: {len(mesh_objects)}")
+
+def select_all_mesh_objects():
+    """Select all mesh objects in the scene"""
+    mesh_objects = [obj for obj in bpy.data.objects if obj.type == 'MESH']
+    
+    if not mesh_objects:
+        print("No mesh objects found in scene!")
+        return
+    
+    for obj in mesh_objects:
+        obj.select_set(True)
+    
+    # Set the first mesh object as active
+    if mesh_objects:
+        bpy.context.view_layer.objects.active = mesh_objects[0]
+    
+    print(f"Selected {len(mesh_objects)} mesh objects: {[obj.name for obj in mesh_objects]}")
 
 def main():
     clear_scene()
