@@ -2,12 +2,43 @@
 
 ## Quick start
 
-### 1. First run the script
+### 1. First run the script from a terminal
 ```bash
 blender --python interactive_render.py
 # Or in my own mac, I have to do
 /Applications/Blender.app/Contents/MacOS/Blender --python interactive_render.py
+# You'll be able to see the following 
+INTERACTIVE SCENE SETUP INSTRUCTIONS:
+1. Import or create your objects
+2. Position them as desired
+3. Select all objects you want to include in the rendering
+4. Optionally configure light and camera parameters:
+   - set_light_parameters(location, energy, size, radius)
+   - set_camera_parameters(distance, height, focus_location)
+   - print_current_settings()
+5. Optionally use existing lights and cameras:
+   - Select a light object and call use_selected_light()
+   - Select a camera object and call use_selected_camera()
+   - clear_user_objects() to use auto-created objects
+6. Run continue_render() when ready
+
+Helper functions for object selection:
+   - list_mesh_objects() - Show all mesh objects and selection status
+   - select_all_mesh_objects() - Select all mesh objects automatically
+
+Available functions in Python console:
+- set_light_parameters(location, energy, size, radius)
+- set_camera_parameters(distance, height, focus_location)
+- use_selected_light()
+- use_selected_camera()
+- clear_user_objects()
+- list_mesh_objects()
+- select_all_mesh_objects()
+- print_current_settings()
+- continue_render()
 ```
+
+
 
 ### 2. In Blender:
  - Import your models (File > Import)
