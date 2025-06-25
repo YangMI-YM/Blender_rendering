@@ -171,11 +171,23 @@ def set_light_parameters(location=(0, -3, 3), energy=2000, size=2, radius=3):
     USER_LIGHT_ENERGY = energy
     USER_LIGHT_SIZE = size
     USER_LIGHT_RADIUS = radius
-    print(f"Light parameters set:")
-    print(f"  Location: {location}")
-    print(f"  Energy: {energy}")
-    print(f"  Size: {size}")
-    print(f"  Animation radius: {radius}")
+    
+    # If using a user-created light, update its properties directly
+    if USER_LIGHT_OBJECT:
+        USER_LIGHT_OBJECT.location = location
+        USER_LIGHT_OBJECT.data.energy = energy
+        USER_LIGHT_OBJECT.data.size = size
+        print(f"Updated existing light '{USER_LIGHT_OBJECT.name}':")
+        print(f"  Location: {location}")
+        print(f"  Energy: {energy}")
+        print(f"  Size: {size}")
+        print(f"  Animation radius: {radius}")
+    else:
+        print(f"Light parameters set (for auto-created light):")
+        print(f"  Location: {location}")
+        print(f"  Energy: {energy}")
+        print(f"  Size: {size}")
+        print(f"  Animation radius: {radius}")
 
 def set_camera_parameters(distance=4, height=2, focus_location=None):
     """Set camera parameters before rendering"""
@@ -241,12 +253,14 @@ def wait_for_user_setup():
     builtins.clear_user_objects = clear_user_objects
     builtins.list_mesh_objects = list_mesh_objects
     builtins.select_all_mesh_objects = select_all_mesh_objects
+    builtins.update_current_light = update_current_light
     
     print("\nAvailable functions in Python console:")
     print("- set_light_parameters(location, energy, size, radius)")
     print("- set_camera_parameters(distance, height, focus_location)")
     print("- use_selected_light()")
     print("- use_selected_camera()")
+    print("- update_current_light(location, energy, size, radius)")
     print("- clear_user_objects()")
     print("- list_mesh_objects()")
     print("- select_all_mesh_objects()")
@@ -316,6 +330,12 @@ def use_selected_light():
     print(f"  Location: {tuple(USER_LIGHT_OBJECT.location)}")
     print(f"  Energy: {USER_LIGHT_OBJECT.data.energy}")
     print(f"  Size: {USER_LIGHT_OBJECT.data.size}")
+    
+    # Update global variables to match the selected light
+    global USER_LIGHT_LOCATION, USER_LIGHT_ENERGY, USER_LIGHT_SIZE
+    USER_LIGHT_LOCATION = tuple(USER_LIGHT_OBJECT.location)
+    USER_LIGHT_ENERGY = USER_LIGHT_OBJECT.data.energy
+    USER_LIGHT_SIZE = USER_LIGHT_OBJECT.data.size
 
 def use_selected_camera():
     """Use the currently selected camera object"""
@@ -374,6 +394,37 @@ def select_all_mesh_objects():
         bpy.context.view_layer.objects.active = mesh_objects[0]
     
     print(f"Selected {len(mesh_objects)} mesh objects: {[obj.name for obj in mesh_objects]}")
+
+def update_current_light(location=None, energy=None, size=None, radius=None):
+    """Update the currently selected light's properties"""
+    if not USER_LIGHT_OBJECT:
+        print("Error: No light selected. Use use_selected_light() first.")
+        return
+    
+    if location is not None:
+        USER_LIGHT_OBJECT.location = location
+        global USER_LIGHT_LOCATION
+        USER_LIGHT_LOCATION = location
+    
+    if energy is not None:
+        USER_LIGHT_OBJECT.data.energy = energy
+        global USER_LIGHT_ENERGY
+        USER_LIGHT_ENERGY = energy
+    
+    if size is not None:
+        USER_LIGHT_OBJECT.data.size = size
+        global USER_LIGHT_SIZE
+        USER_LIGHT_SIZE = size
+    
+    if radius is not None:
+        global USER_LIGHT_RADIUS
+        USER_LIGHT_RADIUS = radius
+    
+    print(f"Updated light '{USER_LIGHT_OBJECT.name}':")
+    print(f"  Location: {tuple(USER_LIGHT_OBJECT.location)}")
+    print(f"  Energy: {USER_LIGHT_OBJECT.data.energy}")
+    print(f"  Size: {USER_LIGHT_OBJECT.data.size}")
+    print(f"  Animation radius: {USER_LIGHT_RADIUS}")
 
 def main():
     clear_scene()

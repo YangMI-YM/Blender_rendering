@@ -34,7 +34,7 @@ Current camera properties:
   Location: (0.6799996495246887, 4.980010986328125, 6.2000274658203125)
   Rotation: (-0.6898740530014038, 0.12217303365468979, 0.125140979886055)
 
-# OPtionally, select user setuo light
+# Optionally, select user setup light
 >> user_selected_light() # detailed to be confirmed
 
 # 4. Start rendering
